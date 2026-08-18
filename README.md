@@ -25,7 +25,7 @@ El programa se ajusta a la **Resolución TSAS 6790/19** de la DGCyE de la Provin
 
 | | Documento | Qué contiene |
 |---|---|---|
-| 📘 | [**Programa de la materia**](programa/) | Fundamentación, objetivos, las 12 unidades con sus contenidos, bibliografía y régimen de evaluación |
+| 📘 | [**Programa de la materia**](programa/) | Fundamentación, capacidades profesionales, las 17 unidades con sus contenidos, bibliografía, régimen de evaluación y correspondencia con la resolución |
 | 📅 | [**Planificación**](planificacion/) | Calendario del ciclo lectivo en curso, hitos y fechas de entrega |
 | 📚 | [**Unidades**](unidades/) | El material de estudio, una carpeta por unidad |
 | 🛠️ | [**Trabajos prácticos**](practicos/) | Consignas, requisitos de entrega y criterios de evaluación |
@@ -43,7 +43,7 @@ Si estás cursando, el recorrido natural es: leer la unidad → hacer la activid
 | 00 | [Presentación de la materia](unidades/00-presentacion/) | — | ✅ Publicada |
 | 01 | [El analista de sistemas y el proyecto en la organización](unidades/01-el-analista-y-el-proyecto/) | I | ✅ Publicada |
 | 02 | Comunicación y ética profesional | I | 🔜 Pendiente |
-| 03 | Metodologías tradicionales y ágiles | I | 🔜 Pendiente |
+| 03 | [Metodologías tradicionales y ágiles](unidades/03-metodologias/) | I | ✅ Publicada |
 | 04 | Diagnóstico organizacional: FODA y técnicas de análisis | II | 🔜 Pendiente |
 | 05 | El alcance del proyecto y las 4P | II | 🔜 Pendiente |
 | 06 | [Gestión y planificación. El plan de proyecto](unidades/06-gestion-y-planificacion/) | II | ✅ Publicada |

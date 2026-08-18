@@ -172,7 +172,7 @@ Recuperación de Prácticas Profesionalizantes I, orientada al objeto de esta ma
 
 ## Unidad 3 — Metodologías tradicionales y ágiles
 
-**Duración:** 2 semanas · **Capacidades:** C1
+**Duración:** 2 semanas · **Material:** [`unidades/03-metodologias/`](../unidades/03-metodologias/) · **Capacidades:** C1
 
 ### Contenidos
 
