@@ -1,9 +1,9 @@
+# Presentación de la materia
 # Prácticas Profesionalizantes II
-# Unidad 1 - Introducción a las Prácticas Profesionalizantes
 
-> Carrera: Analista de Sistemas de Información
+> Tecnicatura Superior en Análisis de Sistemas · 2.º año
 >
-> Material de estudio desarrollado para la asignatura **Prácticas Profesionalizantes II**
+> Clase de apertura del ciclo. No constituye una unidad de contenido: el programa completo está en [`programa/`](../../programa/).
 
 ---
 

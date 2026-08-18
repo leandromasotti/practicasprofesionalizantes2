@@ -1,0 +1,27 @@
+# === Claves y credenciales — nunca deben versionarse ===
+*.pem
+*.key
+*.ppk
+id_ed25519*
+id_rsa*
+cuenta_*
+
+# === Material de uso docente ===
+# Vive en el repositorio privado practicasprofesionalizantes2-docente
+docente/
+*Clave y Rubrica*
+*Clave*Rubrica*
+
+# === Datos personales de estudiantes ===
+Alumnos*
+*.xlsx
+
+# === Temporales de Office ===
+~$*
+*.tmp
+*.bak
+
+# === Sistema operativo ===
+Thumbs.db
+desktop.ini
+.DS_Store

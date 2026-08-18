@@ -1,5 +1,5 @@
-# Unidad 2
-# El Analista de Sistemas
+# Unidad 1
+# El analista de sistemas y el proyecto en la organización
 
 > "Un buen Analista de Sistemas no es quien mejor programa, sino quien mejor comprende los problemas y diseña soluciones que aportan valor."
 
@@ -328,4 +328,4 @@ Elaboren un informe de una página con sus conclusiones.
 
 ---
 
-**Fin de la Unidad 2**
+**Fin de la Unidad 1**
