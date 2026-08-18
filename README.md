@@ -44,7 +44,7 @@ Si estás cursando, el recorrido natural es: leer la unidad → hacer la activid
 | 01 | [El analista de sistemas y el proyecto en la organización](unidades/01-el-analista-y-el-proyecto/) | I | ✅ Publicada |
 | 02 | Comunicación y ética profesional | I | 🔜 Pendiente |
 | 03 | [Metodologías tradicionales y ágiles](unidades/03-metodologias/) | I | ✅ Publicada |
-| 04 | Diagnóstico organizacional: FODA y técnicas de análisis | II | 🔜 Pendiente |
+| 04 | [Diagnóstico organizacional: FODA y técnicas de análisis](unidades/04-diagnostico-y-foda/) | II | ✅ Publicada |
 | 05 | El alcance del proyecto y las 4P | II | 🔜 Pendiente |
 | 06 | [Gestión y planificación. El plan de proyecto](unidades/06-gestion-y-planificacion/) | II | ✅ Publicada |
 | 07 | Métricas del proceso y del proyecto | III | 🔜 Pendiente |

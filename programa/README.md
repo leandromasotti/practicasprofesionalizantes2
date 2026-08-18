@@ -198,7 +198,7 @@ Recuperación de Prácticas Profesionalizantes I, orientada al objeto de esta ma
 
 ## Unidad 4 — Diagnóstico organizacional: FODA y técnicas de análisis
 
-**Duración:** 1 semana · **Capacidades:** C2
+**Duración:** 1 semana · **Material:** [`unidades/04-diagnostico-y-foda/`](../unidades/04-diagnostico-y-foda/) · **Capacidades:** C2
 
 ### Contenidos
 
