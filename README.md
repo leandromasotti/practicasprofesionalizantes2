@@ -53,11 +53,11 @@ Si estás cursando, el recorrido natural es: leer la unidad → hacer la activid
 | 10 | [Planificación temporal: Gantt y PERT](unidades/10-gantt-y-pert/) | IV | ✅ Publicada |
 | 11 | [Planificación organizativa del equipo](unidades/11-organizacion-del-equipo/) | IV | ✅ Publicada |
 | 12 | [Gestión del riesgo y plan de RSGR](unidades/12-riesgo-y-rsgr/) | IV | ✅ Publicada |
-| 13 | Gestión de la Configuración del Software | V | 🔜 Pendiente |
-| 14 | Implementación, estándares y depuración | V | 🔜 Pendiente |
-| 15 | Entrega, entrenamiento y mantenimiento | V | 🔜 Pendiente |
-| 16 | Modelado del proyecto con UML | V | 🔜 Pendiente |
-| 17 | Documentación técnica y el informe técnico | V | 🔜 Pendiente |
+| 13 | [Gestión de la Configuración del Software](unidades/13-gestion-de-configuracion/) | V | ✅ Publicada |
+| 14 | [Implementación, estándares y depuración](unidades/14-implementacion-y-depuracion/) | V | ✅ Publicada |
+| 15 | [Entrega, entrenamiento y mantenimiento](unidades/15-entrega-y-mantenimiento/) | V | ✅ Publicada |
+| 16 | [Modelado del proyecto con UML](unidades/16-modelado-uml/) | V | ✅ Publicada |
+| 17 | [Documentación técnica y el informe técnico](unidades/17-documentacion-tecnica/) | V | ✅ Publicada |
 
 Los contenidos detallados, la bibliografía de cada unidad y la [correspondencia con la Resolución 6790/19](programa/#correspondencia-con-la-resolución-679019) están en el [programa](programa/).
 

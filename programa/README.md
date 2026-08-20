@@ -407,7 +407,7 @@ Recuperación de Prácticas Profesionalizantes I, orientada al objeto de esta ma
 
 ## Unidad 13 — Gestión de la Configuración del Software
 
-**Duración:** 2 semanas · **Capacidades:** C1, C4
+**Duración:** 2 semanas · **Material:** [`unidades/13-gestion-de-configuracion/`](../unidades/13-gestion-de-configuracion/) · **Capacidades:** C1, C4
 
 ### Contenidos
 
@@ -432,7 +432,7 @@ Recuperación de Prácticas Profesionalizantes I, orientada al objeto de esta ma
 
 ## Unidad 14 — Implementación, estándares y depuración
 
-**Duración:** 1 semana · **Capacidades:** C1
+**Duración:** 1 semana · **Material:** [`unidades/14-implementacion-y-depuracion/`](../unidades/14-implementacion-y-depuracion/) · **Capacidades:** C1
 
 ### Contenidos
 
@@ -455,7 +455,7 @@ Recuperación de Prácticas Profesionalizantes I, orientada al objeto de esta ma
 
 ## Unidad 15 — Entrega, entrenamiento y mantenimiento
 
-**Duración:** 2 semanas · **Capacidades:** C1, C4
+**Duración:** 2 semanas · **Material:** [`unidades/15-entrega-y-mantenimiento/`](../unidades/15-entrega-y-mantenimiento/) · **Capacidades:** C1, C4
 
 ### Contenidos
 
@@ -476,7 +476,7 @@ Recuperación de Prácticas Profesionalizantes I, orientada al objeto de esta ma
 
 ## Unidad 16 — Modelado del proyecto con UML
 
-**Duración:** 1 semana · **Capacidades:** C4
+**Duración:** 1 semana · **Material:** [`unidades/16-modelado-uml/`](../unidades/16-modelado-uml/) · **Capacidades:** C4
 
 Unidad de **articulación** con Algoritmos y Estructuras de Datos II, que es donde se enseña el modelado orientado a objetos. Aquí se aplica al proyecto propio, sin desarrollar la teoría.
 
@@ -497,7 +497,7 @@ Unidad de **articulación** con Algoritmos y Estructuras de Datos II, que es don
 
 ## Unidad 17 — Documentación técnica y el informe técnico
 
-**Duración:** 2 semanas · **Capacidades:** C4
+**Duración:** 2 semanas · **Material:** [`unidades/17-documentacion-tecnica/`](../unidades/17-documentacion-tecnica/) · **Capacidades:** C4
 
 El informe técnico es el entregable que la resolución señala como característico de este módulo. Se trabaja en esta unidad y se practica en cada entrega del año.
 
