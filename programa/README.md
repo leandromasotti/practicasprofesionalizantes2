@@ -150,7 +150,7 @@ Recuperación de Prácticas Profesionalizantes I, orientada al objeto de esta ma
 
 ## Unidad 2 — Comunicación y ética profesional
 
-**Duración:** 1 semana · **Capacidades:** C4, C5 · **Ejes transversales:** comunicación, ética
+**Duración:** 1 semana · **Material:** [`unidades/02-comunicacion-y-etica/`](../unidades/02-comunicacion-y-etica/) · **Capacidades:** C4, C5 · **Ejes transversales:** comunicación, ética
 
 ### Contenidos
 
@@ -218,7 +218,7 @@ Recuperación de Prácticas Profesionalizantes I, orientada al objeto de esta ma
 
 ## Unidad 5 — El alcance del proyecto y las 4P
 
-**Duración:** 2 semanas · **Capacidades:** C1, C2
+**Duración:** 2 semanas · **Material:** [`unidades/05-alcance-y-4p/`](../unidades/05-alcance-y-4p/) · **Capacidades:** C1, C2
 
 ### Contenidos
 
@@ -265,7 +265,7 @@ Recuperación de Prácticas Profesionalizantes I, orientada al objeto de esta ma
 
 ## Unidad 7 — Métricas del proceso y del proyecto
 
-**Duración:** 2 semanas · **Capacidades:** C2
+**Duración:** 2 semanas · **Material:** [`unidades/07-metricas/`](../unidades/07-metricas/) · **Capacidades:** C2
 
 ### Contenidos
 
@@ -291,7 +291,7 @@ Recuperación de Prácticas Profesionalizantes I, orientada al objeto de esta ma
 
 ## Unidad 8 — Estimación y modelos empíricos
 
-**Duración:** 1 semana · **Capacidades:** C2, C3 · **Eje transversal:** ética
+**Duración:** 1 semana · **Material:** [`unidades/08-estimacion-y-cocomo/`](../unidades/08-estimacion-y-cocomo/) · **Capacidades:** C2, C3 · **Eje transversal:** ética
 
 ### Contenidos
 

@@ -42,13 +42,13 @@ Si estás cursando, el recorrido natural es: leer la unidad → hacer la activid
 |---|--------|--------|----------|
 | 00 | [Presentación de la materia](unidades/00-presentacion/) | — | ✅ Publicada |
 | 01 | [El analista de sistemas y el proyecto en la organización](unidades/01-el-analista-y-el-proyecto/) | I | ✅ Publicada |
-| 02 | Comunicación y ética profesional | I | 🔜 Pendiente |
+| 02 | [Comunicación y ética profesional](unidades/02-comunicacion-y-etica/) | I | ✅ Publicada |
 | 03 | [Metodologías tradicionales y ágiles](unidades/03-metodologias/) | I | ✅ Publicada |
 | 04 | [Diagnóstico organizacional: FODA y técnicas de análisis](unidades/04-diagnostico-y-foda/) | II | ✅ Publicada |
-| 05 | El alcance del proyecto y las 4P | II | 🔜 Pendiente |
+| 05 | [El alcance del proyecto y las 4P](unidades/05-alcance-y-4p/) | II | ✅ Publicada |
 | 06 | [Gestión y planificación. El plan de proyecto](unidades/06-gestion-y-planificacion/) | II | ✅ Publicada |
-| 07 | Métricas del proceso y del proyecto | III | 🔜 Pendiente |
-| 08 | Estimación y modelos empíricos (COCOMO) | III | 🔜 Pendiente |
+| 07 | [Métricas del proceso y del proyecto](unidades/07-metricas/) | III | ✅ Publicada |
+| 08 | [Estimación y modelos empíricos (COCOMO)](unidades/08-estimacion-y-cocomo/) | III | ✅ Publicada |
 | 09 | Viabilidad y costos del proyecto | III | 🔜 Pendiente |
 | 10 | Planificación temporal: Gantt y PERT | IV | 🔜 Pendiente |
 | 11 | Planificación organizativa del equipo | IV | 🔜 Pendiente |
