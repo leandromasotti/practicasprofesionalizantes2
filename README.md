@@ -49,10 +49,10 @@ Si estás cursando, el recorrido natural es: leer la unidad → hacer la activid
 | 06 | [Gestión y planificación. El plan de proyecto](unidades/06-gestion-y-planificacion/) | II | ✅ Publicada |
 | 07 | [Métricas del proceso y del proyecto](unidades/07-metricas/) | III | ✅ Publicada |
 | 08 | [Estimación y modelos empíricos (COCOMO)](unidades/08-estimacion-y-cocomo/) | III | ✅ Publicada |
-| 09 | Viabilidad y costos del proyecto | III | 🔜 Pendiente |
-| 10 | Planificación temporal: Gantt y PERT | IV | 🔜 Pendiente |
-| 11 | Planificación organizativa del equipo | IV | 🔜 Pendiente |
-| 12 | Gestión del riesgo y plan de RSGR | IV | 🔜 Pendiente |
+| 09 | [Viabilidad y costos del proyecto](unidades/09-viabilidad-y-costos/) | III | ✅ Publicada |
+| 10 | [Planificación temporal: Gantt y PERT](unidades/10-gantt-y-pert/) | IV | ✅ Publicada |
+| 11 | [Planificación organizativa del equipo](unidades/11-organizacion-del-equipo/) | IV | ✅ Publicada |
+| 12 | [Gestión del riesgo y plan de RSGR](unidades/12-riesgo-y-rsgr/) | IV | ✅ Publicada |
 | 13 | Gestión de la Configuración del Software | V | 🔜 Pendiente |
 | 14 | Implementación, estándares y depuración | V | 🔜 Pendiente |
 | 15 | Entrega, entrenamiento y mantenimiento | V | 🔜 Pendiente |

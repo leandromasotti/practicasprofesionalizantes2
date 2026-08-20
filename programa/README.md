@@ -313,7 +313,7 @@ Recuperación de Prácticas Profesionalizantes I, orientada al objeto de esta ma
 
 ## Unidad 9 — Viabilidad y costos del proyecto
 
-**Duración:** 2 semanas · **Capacidades:** C2, C3 · **Eje transversal:** ética
+**Duración:** 2 semanas · **Material:** [`unidades/09-viabilidad-y-costos/`](../unidades/09-viabilidad-y-costos/) · **Capacidades:** C2, C3 · **Eje transversal:** ética
 
 ### Contenidos
 
@@ -338,7 +338,7 @@ Recuperación de Prácticas Profesionalizantes I, orientada al objeto de esta ma
 
 ## Unidad 10 — Planificación temporal: Gantt y PERT
 
-**Duración:** 2 semanas · **Capacidades:** C1, C2
+**Duración:** 2 semanas · **Material:** [`unidades/10-gantt-y-pert/`](../unidades/10-gantt-y-pert/) · **Capacidades:** C1, C2
 
 ### Contenidos
 
@@ -362,7 +362,7 @@ Recuperación de Prácticas Profesionalizantes I, orientada al objeto de esta ma
 
 ## Unidad 11 — Planificación organizativa del equipo
 
-**Duración:** 1 semana · **Capacidades:** C5
+**Duración:** 1 semana · **Material:** [`unidades/11-organizacion-del-equipo/`](../unidades/11-organizacion-del-equipo/) · **Capacidades:** C5
 
 ### Contenidos
 
@@ -382,7 +382,7 @@ Recuperación de Prácticas Profesionalizantes I, orientada al objeto de esta ma
 
 ## Unidad 12 — Gestión del riesgo y plan de RSGR
 
-**Duración:** 2 semanas · **Capacidades:** C2 · **Eje transversal:** ética
+**Duración:** 2 semanas · **Material:** [`unidades/12-riesgo-y-rsgr/`](../unidades/12-riesgo-y-rsgr/) · **Capacidades:** C2 · **Eje transversal:** ética
 
 ### Contenidos
 
