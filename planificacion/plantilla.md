@@ -113,15 +113,15 @@ Si hay déficit, mecanismo de cierre adoptado: _(jornadas de práctica en la org
 
 | TP | Consigna | Unidad | Entrega |
 |---|---|---|---|
-| TP1 | Web de empresa con GitHub | 13 | |
-| TP2 | Documento de alcance y 4P | 5 | |
-| TP3 | Plan de proyecto: hitos y entregas | 6 | |
-| TP4 | Diagnóstico organizacional con FODA | 4 | |
-| TP5 | Métricas y estimación del proyecto | 7 · 8 | |
-| TP6 | Informe de viabilidad y costos | 9 | |
-| TP7 | Cronograma con Gantt, PERT y camino crítico | 10 | |
-| TP8 | Plan de RSGR y matriz de riesgos | 12 | |
-| TP9 | Informe técnico final | 17 | |
+| [TP1](../practicos/tp01-diagnostico-y-foda.md) | Diagnóstico organizacional con matriz FODA | 4 | |
+| [TP2](../practicos/tp02-alcance-y-4p.md) | Documento de alcance y análisis con las 4P | 5 | |
+| [TP3](../practicos/tp03-plan-de-proyecto.md) | Plan de proyecto: descomposición, hitos y entregas | 6 | |
+| [TP4](../practicos/tp04-dimensionamiento-y-estimacion.md) | Dimensionamiento y estimación: puntos función y COCOMO | 7 · 8 | |
+| [TP5](../practicos/tp05-viabilidad-y-costos.md) | Informe de viabilidad y costos | 9 | |
+| [TP6](../practicos/tp06-cronograma.md) | Cronograma: Gantt, PERT y camino crítico | 10 | |
+| [TP7](../practicos/tp07-plan-de-rsgr.md) | Plan de RSGR y matriz de riesgos | 12 | |
+| [TP8](../practicos/tp08-github-web-empresa.md) | Trabajo colaborativo con GitHub | 13 | |
+| [TP9](../practicos/tp09-informe-tecnico-final.md) | Informe técnico final | 17 | |
 
 ---
 
